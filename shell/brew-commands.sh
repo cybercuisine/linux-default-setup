@@ -13,5 +13,6 @@ brew install imagemagick
 # install others
 brew install lazydocker
 brew install lazygit
+brew install k9s
 brew install yq
 brew install screenfetch
