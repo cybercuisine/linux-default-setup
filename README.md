@@ -14,5 +14,5 @@ bash ./shell/setup.sh
 - lazyvim
 - lazygit
 - lazydocker
-
+- tmux
 
