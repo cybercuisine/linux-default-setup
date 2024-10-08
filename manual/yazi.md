@@ -1,5 +1,12 @@
 # for wsl
 
+from https://yazi-rs.github.io/docs/image-preview/#wsl
+
+> Limited by ConPTY, the Windows edition has had to implement many workarounds, which are not perfect.
+
+> However, if you run Yazi in WSL, you can experience perfect image previews using wezterm ssh.
+> WezTerm is an excellent terminal that can bypass the limitations of ConPTY through its SSH feature, and it's currently the only terminal that allows this approach.
+
 ## in wsl
 ```
 sudo service ssh restart
