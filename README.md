@@ -1,5 +1,5 @@
 # linux-default-setup
-linux default setup commands
+My linux default setup commands
 
 ## Usage
 ```
